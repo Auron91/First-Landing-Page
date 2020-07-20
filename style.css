@@ -57,7 +57,7 @@ header {
 nav {
     display: flex;
     align-items: center;
-    height: 120px;
+    height: 110px;
 }
 .links {
     margin-left: auto;
@@ -66,7 +66,7 @@ nav {
     font-size: 1.06525rem;
     font-weight: 400;
     transition: --(transition);
-    
+
 }
 .links a{
     margin-right: 50px;
@@ -81,7 +81,7 @@ nav {
     background-color: var(--accent);
     padding: 8px 25px;
     transition: var(--transition);
-    
+
 }
 
 .button_med:hover {
@@ -101,7 +101,7 @@ nav {
 .icons {
     display: flex;
     margin-top: 55px;
-    
+
 }
 .icon {
     display: flex;
@@ -167,7 +167,7 @@ nav {
     width: 180px;
     font-size: 1rem;
     font-weight: 400;
-    
+
 }
 
 @media only screen and (max-width: 1100px) {
@@ -177,7 +177,7 @@ nav {
     }
     .icon-top {
         font-size: 1rem;
-        
+
     }
     .icon-bottom {
      font-size: 1.125rem;
